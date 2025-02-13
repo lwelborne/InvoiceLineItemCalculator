@@ -1,5 +1,4 @@
 # Lenora Welborne
-# CIS261
 # Invoice Line Item Calculator
 def get_price():
     while True:
